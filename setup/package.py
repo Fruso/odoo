@@ -565,3 +565,4 @@ if __name__ == '__main__':
         logging.error('Build dir "%s" already exists.', args.build_dir)
         sys.exit(1)
     main(args)
+test
